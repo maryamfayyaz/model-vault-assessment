@@ -1,0 +1,5 @@
+myenv
+venv
+venv/bin/normalizer
+__pycache__/
+.env
