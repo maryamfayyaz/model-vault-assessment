@@ -31,7 +31,7 @@ A lightweight FastAPI-based REST API that simulates ModelVault’s core prompt-r
 
 In a new terminal:
  - source venv/bin/activate
- - uvicorn main:app --reload
+ - uvicorn app:app --reload
 
 
 ## Testing The Api
